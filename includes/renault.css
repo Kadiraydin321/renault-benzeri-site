@@ -1,0 +1,39 @@
+<style type="text/css" rel="stylesheet">
+  div.bos{}
+
+  div.transbox {
+    width:auto;
+    height:auto;
+    padding: 5px 30px;
+    float: left;
+    background-color:#ffffff;
+    opacity:0.6;
+    filter:alpha(opacity=60);
+  }
+  div.transbox h1,h4 {
+    font-weight:bold;
+    color:#000000;
+  }
+  div.ana_sayfa_ic_div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #cccccc;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 15px;
+  }
+  div.kenarlik {
+    border-width: 13px;
+    border-style: solid;
+    border-color: #cccccc;
+  }
+  div.genel-bakis {
+    margin-top: 30px;
+  }
+
+
+
+
+
+
+</style>
